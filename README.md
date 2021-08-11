@@ -1,4 +1,4 @@
-# slash-activities
+# slash-activitiess
 Voice Activities for Discord (with Slash Commands)
 
 # Invite
