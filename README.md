@@ -11,5 +11,4 @@ Voice Activities for Discord (with Slash Commands)
 
 ## Additional notes
 - You must invite the bot with `bot` and `application.commands` scope for this to work
-- Join my [Discord Server](https://discord.gg/mkyRmPB)
-- Subscribe me on [YouTube](https://www.youtube.com/channel/UChVsh440kvsyPGuKit8vfqg)
+
